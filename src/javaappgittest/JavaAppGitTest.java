@@ -16,6 +16,8 @@ public class JavaAppGitTest {
      */
     public static void main(String[] args) {
         System.out.println("Hello Netbeans!");
+        System.out.println("Good connection!");
+        System.out.println("Go Ravens!");
     }
     
 }
