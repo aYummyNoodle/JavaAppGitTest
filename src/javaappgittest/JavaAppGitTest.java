@@ -18,6 +18,7 @@ public class JavaAppGitTest {
         System.out.println("Hello Netbeans!");
         System.out.println("Good connection!");
         System.out.println("Go Ravens!");
+        System.out.println("Eclipse!");
     }
     
 }
